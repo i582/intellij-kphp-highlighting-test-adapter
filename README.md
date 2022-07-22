@@ -1,0 +1,1 @@
+# intellij-kphp-highlighting-test-adapter
