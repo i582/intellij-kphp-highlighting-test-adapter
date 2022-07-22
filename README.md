@@ -1,5 +1,3 @@
-[![Build](https://github.com/i582/intellij-kphp-highlighting-test-adapter/workflows/Build/badge.svg)](https://github.com/i582/intellij-kphp-highlighting-test-adapter/workflows/Build/badge.svg)
-
 # intellij-kphp-highlighting-test-adapter
 
 Library for testing highlighting in plugins for IDEA.
@@ -10,7 +8,7 @@ Library for testing highlighting in plugins for IDEA.
 
 ```kotlin
 plugins {
-    id("intellij-kphp-highlighting-test-adapter") version "0.1.0"
+    id("com.vk.intellij-kphp-highlighting-test-adapter") version "0.1.0"
 }
 ```
 
@@ -18,7 +16,7 @@ plugins {
 
 ```groovy
 plugins {
-    id 'intellij-kphp-highlighting-test-adapter' version "0.1.0"
+    id 'com.vk.intellij-kphp-highlighting-test-adapter' version "0.1.0"
 }
 ```
 
