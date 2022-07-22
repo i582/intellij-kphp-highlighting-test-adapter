@@ -1,6 +1,6 @@
 # intellij-kphp-highlighting-test-adapter
 
-Library for testing highlighting in plugins for IDEA.
+Library for testing highlighting in plugins for IDEA in KPHP format.
 
 ## Installation
 
